@@ -1,0 +1,13 @@
+.contain {
+    display: inline-block;
+    padding: 2rem;
+    border: 2px solid #b38c8c;
+    border-radius: 1rem;
+    list-style: none;
+    background-color: bisque;
+}
+.item {
+
+    margin-top: 1rem;
+
+}
